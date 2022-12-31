@@ -1,0 +1,7 @@
+__pycache__
+config.env
+*.session*
+log*
+accounts
+token.pickle
+.vscode
